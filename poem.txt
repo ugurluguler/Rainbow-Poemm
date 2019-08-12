@@ -4,5 +4,6 @@ orange
 pink
 blue
 green
+white
 
 these are the clolor of the Rainbow Poem.
