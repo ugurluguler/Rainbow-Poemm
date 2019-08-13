@@ -5,6 +5,7 @@ pink
 blue
 green
 indigo
+recycle!
 unicorn
 white
 purple
